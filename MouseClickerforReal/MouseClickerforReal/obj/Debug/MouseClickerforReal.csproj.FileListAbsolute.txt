@@ -1,0 +1,9 @@
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\bin\Debug\MouseClickerforReal.exe.config
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\bin\Debug\MouseClickerforReal.exe
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\bin\Debug\MouseClickerforReal.pdb
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.csprojAssemblyReference.cache
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.Form1.resources
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.Properties.Resources.resources
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.csproj.GenerateResource.cache
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.exe
+C:\Users\xlr8a\source\repos\MouseClickerforReal\MouseClickerforReal\obj\Debug\MouseClickerforReal.pdb
